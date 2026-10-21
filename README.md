@@ -2,7 +2,7 @@
 
 **Alikhan Yerbol | SE-2517**
 
-Repository: <https://github.com/alikhanov0/daa-assignment3-graphs>  
+Repository: <https://github.com/alikhanov0/daa-assignment3-graphs>
 Submission branch: `main` | Release tag: `v1.0`
 
 Java implementations of DSU, Kruskal, Prim, Kosaraju, Kahn and multisource DAG shortest paths, plus both bonuses: iterative Tarjan and condensation/critical path. All graph algorithms are implemented in this project; Java collections provide storage and the required priority queue. Kruskal uses an explicit stable merge sort.
