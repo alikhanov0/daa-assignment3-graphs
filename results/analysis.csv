@@ -1,0 +1,11 @@
+algorithm,density,scans_slope,operations_slope,comparisons_slope
+Kruskal,sparse,1.055003,1.095868,1.105495
+Kruskal,dense,1.119421,1.088168,1.086826
+Prim,sparse,1.000000,1.101897,1.109156
+Prim,dense,1.000000,1.085068,1.090372
+Kosaraju,sparse,1.000000,1.000000,
+Kosaraju,dense,1.000000,1.000000,
+Kahn,sparse,1.000000,1.000000,
+Kahn,dense,1.000000,1.000000,
+DagShortestPath,sparse,1.000000,1.000000,1.000000
+DagShortestPath,dense,1.000000,1.000000,1.000000
