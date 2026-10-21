@@ -1,0 +1,8 @@
+/target/
+/tmp/
+/*.zip
+/.venv/
+__pycache__/
+*.pyc
+.idea/
+*.iml
