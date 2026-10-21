@@ -1,0 +1,8 @@
+Java: 19.0.2
+VM: Java HotSpot(TM) 64-Bit Server VM
+OS: Windows 11 amd64
+Available processors: 12
+Max heap bytes: 2147483648
+Seed: 42 per graph
+Warmups: 1
+Measured runs: 5
